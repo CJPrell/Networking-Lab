@@ -1,18 +1,30 @@
-<h1>Building Lab and Observing </h1>
+<h1>Networking Lab 01: TCP/IP and Network Traffic Analysis</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+This project documents the construction of a small virtual networking lab hosted on my ZimaOS home server. The environment consists of a Windows 11 client virtual machine and an Ubuntu Linux virtual machine connected through the same virtual network.
+
+The purpose of this lab is to develop practical experience with foundational networking concepts commonly used in IT support, network administration, and cybersecurity roles. The lab includes IP configuration, connectivity testing, DNS name resolution, packet analysis, service hosting, and basic network troubleshooting.<br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Windows Command Prompt</b>
+- <b>Linux Bash</b>
+- <b>Wireshark</b>
+- <b>Python HTTP Server</b>
+- <b>ipconfig</b>
+- <b>ping</b>
+- <b>nslookup</b>
+- <b>tracert</b>
+- <b>arp</b>
+- <b>Test-NetConnection</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>ZimaOS Home Server</b>
+- <b>Windows 11 VM</b> 
+- <b>Ubuntu Linux VM</b> 
 
 <h2>Program walk-through:</h2>
 

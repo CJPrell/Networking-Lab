@@ -42,12 +42,13 @@ Both virtual machines were connected to the same ZimaOS virtual network so that 
 
 <p align="center">
   <img src="https://i.imgur.com/QBkxOik.png"
-       alt="UBUNTU VM configuration in ZimaOS"
+       alt="Windows 11 VM configuration in ZimaOS"
        width="750">
 </p>
 
 <p align="center">
   <em>Figure 1: Windows 11 virtual machine configuration in ZimaOS.</em>
+ 
 <p align="center">
   <img src="https://i.imgur.com/QBkxOik.png"
        alt="UBUNTU VM configuration in ZimaOS"
@@ -55,12 +56,32 @@ Both virtual machines were connected to the same ZimaOS virtual network so that 
 </p>
 
 <p align="center">
-  <em>Figure 2: UBUNTU virtual machine configuration in ZimaOS.</em>
+  <em>Figure 2: Ubuntu virtual machine configuration in ZimaOS.</em>
+
+ <p align="center">
+  <img src="https://i.imgur.com/CXI3GIe.png"
+       alt="Both VMs Running"
+       width="750">
 </p>
+
+<p align="center">
+  <em>Figure 3: Both VMs Running.</em>
 <br />
 <br />
 02 - Network design:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ The lab consists of two virtual machines hosted on a ZimaOS home server. 
+ 
+ Both virtual machines are connected to the same virtual network, allowing them to communicate with each other and access external network resources through the home router.
+ 
+ <p align="center">
+  <img src="https://i.imgur.com/KbfaXsJ.png"
+       alt="Network Design"
+       width="750">
+</p>
+
+<p align="center">
+  <em>Figure 4: Network topology showing the Windows 11 and Ubuntu Linux virtual machines connected to the same virtual network on the ZimaOS home server.</em>
 <br />
 <br />
 03 - Windows Network Configuration: <br/>

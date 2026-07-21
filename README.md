@@ -23,7 +23,7 @@ The purpose of this lab is to develop practical experience with foundational net
 <h2>Environments Used </h2>
 
 - <b>ZimaOS Home Server</b>
-- <b>Windows 11 Virtual MachineM</b> 
+- <b>Windows 11 Virtual Machine (24H2)</b> 
 - <b>Ubuntu Linux Virtual Machine</b> 
 - <b>ZimaOS Virtual Network</b> 
 - <b>GitHub</b>

@@ -32,7 +32,31 @@ The purpose of this lab is to develop practical experience with foundational net
 
 <p align="center">
 01 - VM Creation: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ I created two virtual machines on my ZimaOS home server:
+ 
+- <b>A Windows 11 client VM <b/>
+- <b>An Ubuntu Linux VM <b/>
+
+Both virtual machines were connected to the same ZimaOS virtual network so that they could communicate with each other.
+
+<p align="center">
+  <img src="https://i.imgur.com/QBkxOik.png"
+       alt="UBUNTU VM configuration in ZimaOS"
+       width="750">
+</p>
+
+<p align="center">
+  <em>Figure 1: Windows 11 virtual machine configuration in ZimaOS.</em>
+<p align="center">
+  <img src="https://i.imgur.com/QBkxOik.png"
+       alt="UBUNTU VM configuration in ZimaOS"
+       width="750">
+</p>
+
+<p align="center">
+  <em>Figure 2: UBUNTU virtual machine configuration in ZimaOS.</em>
+</p>
 <br />
 <br />
 02 - Network design:  <br/>
